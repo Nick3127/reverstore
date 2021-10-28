@@ -1,0 +1,53 @@
+[
+ {
+  "title": "Revers engraving deck type1 (8.0)",
+  "price": "3500",
+  "imageUrl": "img/decks/1.jpg",
+  "id": "1"
+ },
+ {
+  "title": "Revers engraving deck type2 (8.1)",
+  "price": "3600",
+  "imageUrl": "img/decks/2.jpg",
+  "id": "2"
+ },
+ {
+  "title": "Revers engraving deck type3 (8.2)",
+  "price": "3700",
+  "imageUrl": "img/decks/3.jpg",
+  "id": "3"
+ },
+ {
+  "title": "Revers engraving deck type4 (8.3)",
+  "price": "3800",
+  "imageUrl": "img/decks/4.jpg",
+  "id": "4"
+ },
+ {
+  "title": "White T-shirt Revers logo",
+  "price": "1000",
+  "imageUrl": "img/decks/wts.jpg",
+  "id": "5"
+ },
+ {
+  "title": "Black T-shirt Revers logo",
+  "price": "1000",
+  "imageUrl": "img/decks/bts.jpg",
+  "id": "6"
+ },
+ {
+  "title": "Sticker black or white Revers logo",
+  "price": "200",
+  "imageUrl": "img/decks/sp.jpg",
+  "id": "6"
+ },
+ {
+  "title": "Shopping Revers bag color black",
+  "price": "1200",
+  "imageUrl": "img/decks/shop.jpg",
+  "id": "6"
+ }
+]
+// import BannerBgImg1 from "../../assets/static/img/banner/banner_bg_img_1.jpg";
+
+// <div className="bannerInnerItem" style={{backgroundImage: `url(${BannerBgImg1})` }}>
